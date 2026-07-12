@@ -17,4 +17,4 @@ Este repositorio contiene los ejercicios, talleres y proyectos desarrollados dur
 * Agregaciones (SUM, COUNT, GROUP BY).
 
 ---
-*Desarrollado por [Tu Nombre] - Estudiante de Data Science*
+*Desarrollado por Tania Cafferata - Estudiante de Data Science*
